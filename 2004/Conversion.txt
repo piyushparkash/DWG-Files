@@ -1,0 +1,34 @@
+Conversion Report:
+Created by AutoCAD DWG Convert Saturday, May 17, 2014, 9:57 AM.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2004/LT 2004 Drawing Format
+Conversion package type: Folder (set of files)
+Conversion Location:     C:\Users\THEAI\Desktop\DWG\2004\
+Converted DWG files:     18
+Recovered DWG files:     0
+Conversion errors:       0
+
+
+Converted Files
+---------------
+Root Drawings:
+	C:\Users\THEAI\Desktop\DWG\2013\3D Polyline.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Arc.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Block.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\circle.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Construction Line.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Donut.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Ellipse.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Helix.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Line.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Multiline.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Point.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Polygon.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Polyline.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\RAY.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Rectangle.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Spline.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Table.dwg
+	C:\Users\THEAI\Desktop\DWG\2013\Text.dwg
