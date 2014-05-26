@@ -1,0 +1,40 @@
+[ AutoCAD - Mon May 26 16:33:41 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadBlockReference 000000002a463dc8>
+; IAcadBlockReference: AutoCAD Block Reference Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f752308>
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000029eafd18>
+;   EffectiveName (RO) = "First Block"
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C8"
+;   HasAttributes (RO) = 0
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002ca53118>
+;   InsertionPoint = (19.8219 8.45936 0.0)
+;   InsUnits (RO) = "Inches"
+;   InsUnitsFactor (RO) = 1.0
+;   IsDynamicBlock (RO) = 0
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Name = "First Block"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 42
+;   ObjectID32 (RO) = 42
+;   ObjectName (RO) = "AcDbBlockReference"
+;   OwnerID (RO) = 43
+;   OwnerID32 (RO) = 43
+;   PlotStyleName = "ByLayer"
+;   Rotation = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002ca53350>
+;   Visible = -1
+;   XEffectiveScaleFactor = 1.0
+;   XScaleFactor = 1.0
+;   YEffectiveScaleFactor = 1.0
+;   YScaleFactor = 1.0
+;   ZEffectiveScaleFactor = 1.0
+;   ZScaleFactor = 1.0

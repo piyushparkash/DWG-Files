@@ -1,0 +1,156 @@
+[ AutoCAD - Mon May 26 16:46:19 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadLine 0000000036eadb78>
+; IAcadLine: AutoCAD Line Interface
+; Property values:
+;   Angle (RO) = 3.04252
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   Delta (RO) = (-22.6168 2.24807 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000036e53b88>
+;   EndPoint = (9.75549 10.0432 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1CC"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 0000000036c109b8>
+;   Layer = "0"
+;   Length (RO) = 22.7283
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 76
+;   ObjectID32 (RO) = 76
+;   ObjectName (RO) = "AcDbLine"
+;   OwnerID (RO) = 77
+;   OwnerID32 (RO) = 77
+;   PlotStyleName = "ByLayer"
+;   StartPoint = (32.3723 7.79514 0.0)
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 0000000036c11190>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLine 0000000036eadc38>
+; IAcadLine: AutoCAD Line Interface
+; Property values:
+;   Angle (RO) = 5.89039
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   Delta (RO) = (21.3416 -8.8424 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000036e53b88>
+;   EndPoint = (32.3723 7.79514 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1CB"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000370c32e8>
+;   Layer = "0"
+;   Length (RO) = 23.1009
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 78
+;   ObjectID32 (RO) = 78
+;   ObjectName (RO) = "AcDbLine"
+;   OwnerID (RO) = 77
+;   OwnerID32 (RO) = 77
+;   PlotStyleName = "ByLayer"
+;   StartPoint = (11.0307 16.6375 0.0)
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000370c3640>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLine 0000000036eadcf8>
+; IAcadLine: AutoCAD Line Interface
+; Property values:
+;   Angle (RO) = 2.22385
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   Delta (RO) = (-10.577 13.8256 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000036e53b88>
+;   EndPoint = (11.0307 16.6375 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1CA"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000370c3948>
+;   Layer = "0"
+;   Length (RO) = 17.4075
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 79
+;   ObjectID32 (RO) = 79
+;   ObjectName (RO) = "AcDbLine"
+;   OwnerID (RO) = 77
+;   OwnerID32 (RO) = 77
+;   PlotStyleName = "ByLayer"
+;   StartPoint = (21.6078 2.81192 0.0)
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000370c3a00>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLine 0000000036eaddb8>
+; IAcadLine: AutoCAD Line Interface
+; Property values:
+;   Angle (RO) = 4.17869
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   Delta (RO) = (-6.37622 -10.7907 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000036e53b88>
+;   EndPoint = (21.6078 2.81192 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C9"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000370c3e88>
+;   Layer = "0"
+;   Length (RO) = 12.5338
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 80
+;   ObjectID32 (RO) = 80
+;   ObjectName (RO) = "AcDbLine"
+;   OwnerID (RO) = 77
+;   OwnerID32 (RO) = 77
+;   PlotStyleName = "ByLayer"
+;   StartPoint = (27.984 13.6027 0.0)
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000370c3be0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLine 0000000036eade78>
+; IAcadLine: AutoCAD Line Interface
+; Property values:
+;   Angle (RO) = 0.192841
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   Delta (RO) = (18.2285 3.55944 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000036e53b88>
+;   EndPoint = (27.984 13.6027 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C8"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000370c3fa8>
+;   Layer = "0"
+;   Length (RO) = 18.5728
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 81
+;   ObjectID32 (RO) = 81
+;   ObjectName (RO) = "AcDbLine"
+;   OwnerID (RO) = 77
+;   OwnerID32 (RO) = 77
+;   PlotStyleName = "ByLayer"
+;   StartPoint = (9.75549 10.0432 0.0)
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000370c4000>
+;   Visible = -1

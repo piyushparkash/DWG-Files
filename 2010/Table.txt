@@ -1,0 +1,53 @@
+[ AutoCAD - Mon May 26 16:47:05 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadTable 000000003a9b0218>
+; IAcadTable: IAcadTable Interface
+; Property values:
+;   AllowManualHeights = 0
+;   AllowManualPositions = 0
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   BreaksEnabled = 0
+;   BreakSpacing = 0.99
+;   Columns = 3
+;   ColumnWidth (RO) = ...Indexed contents not shown...
+;   Direction = (1.0 0.0 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 0000000037845688>
+;   EnableBreak (RO) = ...Indexed contents not shown...
+;   EntityTransparency = "ByLayer"
+;   FlowDirection = 0
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   HasSubSelection (RO) = 0
+;   HeaderSuppressed = 0
+;   Height = 1.46625
+;   HorzCellMargin = 0.06
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000003ae25e18>
+;   InsertionPoint = (13.8101 11.2876 0.0)
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   MinimumTableHeight (RO) = 1.46625
+;   MinimumTableWidth (RO) = 1.11
+;   ObjectID (RO) = 121
+;   ObjectID32 (RO) = 121
+;   ObjectName (RO) = "AcDbTable"
+;   OwnerID (RO) = 122
+;   OwnerID32 (RO) = 122
+;   PlotStyleName = "ByLayer"
+;   RegenerateTableSuppressed = 0
+;   RepeatBottomLabels = 0
+;   RepeatTopLabels = 0
+;   RowHeight (RO) = ...Indexed contents not shown...
+;   Rows = 3
+;   StyleName = "Standard"
+;   TableBreakFlowDirection = 1
+;   TableBreakHeight = 0.0
+;   TableStyleOverrides (RO) = nil
+;   TitleSuppressed = 0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000003ae26230>
+;   VertCellMargin = 0.06
+;   Visible = -1
+;   Width = 7.5

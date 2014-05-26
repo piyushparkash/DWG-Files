@@ -1,0 +1,133 @@
+[ AutoCAD - Mon May 26 16:44:53 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadSpline 000000003a24fe68>
+; IAcadSpline: AutoCAD Spline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 45.4007
+;   Closed (RO) = 0
+;   Closed2 = 0
+;   ControlPoints = (4.09191 14.0523 0.0 7.35503 5.05999 0.0 ... )
+;   Degree (RO) = 3
+;   Degree2 = 3
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d2e88>
+;   EndTangent = AutoCAD.Application: General modeling failure
+;   EntityTransparency = "ByLayer"
+;   FitPoints = nil
+;   FitTolerance = 0.0
+;   Handle (RO) = "1BF"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000003a39c228>
+;   IsPeriodic (RO) = 0
+;   IsPlanar (RO) = -1
+;   IsRational (RO) = 0
+;   KnotParameterization = 15
+;   Knots = (0.0 0.0 0.0 0.0 1.0 2.0 ... )
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   NumberOfControlPoints (RO) = 5
+;   NumberOfFitPoints (RO) = 0
+;   ObjectID (RO) = 117
+;   ObjectID32 (RO) = 117
+;   ObjectName (RO) = "AcDbSpline"
+;   OwnerID (RO) = 118
+;   OwnerID32 (RO) = 118
+;   PlotStyleName = "ByLayer"
+;   SplineFrame = 1
+;   SplineMethod = 1
+;   StartTangent = AutoCAD.Application: General modeling failure
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000003a39b9e0>
+;   Visible = -1
+;   Weights = AutoCAD.Application: No weights available for polynomial spline
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadSpline 000000003a55aa28>
+; IAcadSpline: AutoCAD Spline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 20.1091
+;   Closed (RO) = 0
+;   Closed2 = 0
+;   ControlPoints = (28.059 8.80677 0.0 33.9643 7.72128 0.0 ... )
+;   Degree (RO) = 3
+;   Degree2 = 3
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d2e88>
+;   EndTangent = (0.0 0.0 0.0)
+;   EntityTransparency = "ByLayer"
+;   FitPoints = (28.059 8.80677 0.0 40.0613 6.22149 0.0 ... )
+;   FitTolerance = 1.0e-010
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000003a5715e8>
+;   IsPeriodic (RO) = 0
+;   IsPlanar (RO) = -1
+;   IsRational (RO) = 0
+;   KnotParameterization = 0
+;   Knots = (0.0 0.0 0.0 0.0 12.2776 26.0835 ... )
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   NumberOfControlPoints (RO) = 5
+;   NumberOfFitPoints (RO) = 3
+;   ObjectID (RO) = 119
+;   ObjectID32 (RO) = 119
+;   ObjectName (RO) = "AcDbSpline"
+;   OwnerID (RO) = 118
+;   OwnerID32 (RO) = 118
+;   PlotStyleName = "ByLayer"
+;   SplineFrame = 1
+;   SplineMethod = 0
+;   StartTangent = (0.0 0.0 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000003a5717c0>
+;   Visible = -1
+;   Weights = AutoCAD.Application: No weights available for polynomial spline
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadSpline 000000003a55ab08>
+; IAcadSpline: AutoCAD Spline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 46.2417
+;   Closed (RO) = 0
+;   Closed2 = 0
+;   ControlPoints = (10.018 7.4954 0.0 15.3906 6.25317 0.0 ... )
+;   Degree (RO) = 3
+;   Degree2 = 3
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d2e88>
+;   EndTangent = (0.0 0.0 0.0)
+;   EntityTransparency = "ByLayer"
+;   FitPoints = (10.018 7.4954 0.0 21.1577 6.37137 0.0 ... )
+;   FitTolerance = 1.0e-010
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000003a571b88>
+;   IsPeriodic (RO) = 0
+;   IsPlanar (RO) = -1
+;   IsRational (RO) = 0
+;   KnotParameterization = 0
+;   Knots = (0.0 0.0 0.0 0.0 11.1962 20.7142 ... )
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   NumberOfControlPoints (RO) = 5
+;   NumberOfFitPoints (RO) = 3
+;   ObjectID (RO) = 120
+;   ObjectID32 (RO) = 120
+;   ObjectName (RO) = "AcDbSpline"
+;   OwnerID (RO) = 118
+;   OwnerID32 (RO) = 118
+;   PlotStyleName = "ByLayer"
+;   SplineFrame = 1
+;   SplineMethod = 0
+;   StartTangent = (0.0 0.0 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000003a571d60>
+;   Visible = -1
+;   Weights = AutoCAD.Application: No weights available for polynomial spline

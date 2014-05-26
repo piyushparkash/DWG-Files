@@ -1,0 +1,32 @@
+[ AutoCAD - Mon May 26 16:45:52 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadCircle 000000002ef5fd18>
+; IAcadCircle: AutoCAD Circle Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f512308>
+;   Area = 575.138
+;   Center = (23.4493 -1.09239 0.0)
+;   Circumference = 85.0141
+;   Diameter = 27.0608
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002ec371d8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002edab098>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 50
+;   ObjectID32 (RO) = 50
+;   ObjectName (RO) = "AcDbCircle"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Radius = 13.5304
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002edaaf70>
+;   Visible = -1

@@ -1,0 +1,103 @@
+[ AutoCAD - Mon May 26 16:40:37 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadHelix 000000002bd60828>
+; IAcadHelix: IAcadSpring Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BaseRadius = 1.36885
+;   Constrain = 1
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f2b2df8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BF"
+;   HasExtensionDictionary (RO) = 0
+;   Height = 1.0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000363ee2a8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 72
+;   ObjectID32 (RO) = 72
+;   ObjectName (RO) = "AcDbHelix"
+;   OwnerID (RO) = 73
+;   OwnerID32 (RO) = 73
+;   PlotStyleName = "ByLayer"
+;   Position = (2.25405 13.3778 0.0)
+;   TopRadius = 6.82783
+;   TotalLength (RO) = 77.4916
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000363ee5a0>
+;   TurnHeight = 0.333333
+;   Turns = 3.0
+;   TurnSlope (RO) = 1.38962
+;   Twist = 0
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadHelix 000000002bd608d8>
+; IAcadHelix: IAcadSpring Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BaseRadius = 1.42682
+;   Constrain = 1
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f2b2df8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   Height = 1.0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000363ee848>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 74
+;   ObjectID32 (RO) = 74
+;   ObjectName (RO) = "AcDbHelix"
+;   OwnerID (RO) = 73
+;   OwnerID32 (RO) = 73
+;   PlotStyleName = "ByLayer"
+;   Position = (34.5102 15.476 0.0)
+;   TopRadius = 9.28195
+;   TotalLength (RO) = 101.322
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000363ee9c0>
+;   TurnHeight = 0.333333
+;   Turns = 3.0
+;   TurnSlope (RO) = 1.44417
+;   Twist = 0
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadHelix 000000002bd611c8>
+; IAcadHelix: IAcadSpring Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BaseRadius = 5.23833
+;   Constrain = 1
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f2b2df8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Height = 1.0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000363eeb48>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 75
+;   ObjectID32 (RO) = 75
+;   ObjectName (RO) = "AcDbHelix"
+;   OwnerID (RO) = 73
+;   OwnerID32 (RO) = 73
+;   PlotStyleName = "ByLayer"
+;   Position = (19.3948 11.0174 0.0)
+;   TopRadius = 0.42723
+;   TotalLength (RO) = 53.7246
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000363eefc0>
+;   TurnHeight = 0.333333
+;   Turns = 3.0
+;   TurnSlope (RO) = -1.36586
+;   Twist = 0
+;   Visible = -1

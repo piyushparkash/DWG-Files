@@ -1,0 +1,109 @@
+[ AutoCAD - Mon May 26 16:34:42 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadXline 0000000029e88fb8>
+; IAcadXline: AutoCAD Xline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f752308>
+;   BasePoint = (34.684 48.4498 0.0)
+;   DirectionVector = (-0.817977 0.575251 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002cd60bd8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002cf8adc8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 46
+;   ObjectID32 (RO) = 46
+;   ObjectName (RO) = "AcDbXline"
+;   OwnerID (RO) = 47
+;   OwnerID32 (RO) = 47
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (33.866 49.0251 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002cf8afa0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadXline 0000000029e89488>
+; IAcadXline: AutoCAD Xline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f752308>
+;   BasePoint = (34.684 48.4498 0.0)
+;   DirectionVector = (-0.805537 -0.592545 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002cd60bd8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BC"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002cf8b2a8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 48
+;   ObjectID32 (RO) = 48
+;   ObjectName (RO) = "AcDbXline"
+;   OwnerID (RO) = 47
+;   OwnerID32 (RO) = 47
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (33.8784 47.8573 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002cf8b120>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadXline 0000000029e89748>
+; IAcadXline: AutoCAD Xline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f752308>
+;   BasePoint = (34.684 48.4498 0.0)
+;   DirectionVector = (-0.018621 -0.999827 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002cd60bd8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BB"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002cf8b488>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 49
+;   ObjectID32 (RO) = 49
+;   ObjectName (RO) = "AcDbXline"
+;   OwnerID (RO) = 47
+;   OwnerID32 (RO) = 47
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (34.6653 47.45 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002cf8b600>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadXline 0000000029e89a08>
+; IAcadXline: AutoCAD Xline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f752308>
+;   BasePoint = (34.684 48.4498 0.0)
+;   DirectionVector = (0.998718 0.050628 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002cd60bd8>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BA"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002cf8b788>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 50
+;   ObjectID32 (RO) = 50
+;   ObjectName (RO) = "AcDbXline"
+;   OwnerID (RO) = 47
+;   OwnerID32 (RO) = 47
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (35.6827 48.5004 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002cf8b4e0>
+;   Visible = -1

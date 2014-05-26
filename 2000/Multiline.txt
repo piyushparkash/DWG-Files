@@ -1,0 +1,29 @@
+[ AutoCAD - Mon May 26 16:37:23 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadMLine 0000000029e8b798>
+; IAcadMLine: IAcadMLine Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013f752308>
+;   Coordinates = (9.15538 14.989 0.0 18.7947 10.0057 0.0 ... )
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002d975458>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 00000000364a87f8>
+;   Justification = 0
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   MLineScale = 1.0
+;   ObjectID (RO) = 76
+;   ObjectID32 (RO) = 76
+;   ObjectName (RO) = "AcDbMline"
+;   OwnerID (RO) = 77
+;   OwnerID32 (RO) = 77
+;   PlotStyleName = "ByLayer"
+;   StyleName (RO) = "STANDARD"
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 00000000364a29d0>
+;   Visible = -1

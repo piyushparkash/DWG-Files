@@ -1,0 +1,106 @@
+[ AutoCAD - Mon May 26 16:48:11 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadArc 000000002b8d6088>
+; IAcadArc: AutoCAD Arc Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013ffe2308>
+;   ArcLength (RO) = 7.86301
+;   Area (RO) = 8.26009
+;   Center = (4.63487 12.1317 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002bf67248>
+;   EndAngle = 3.38637
+;   EndPoint (RO) = (0.69158 11.1467 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BF"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e82bfe8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 44
+;   ObjectID32 (RO) = 44
+;   ObjectName (RO) = "AcDbArc"
+;   OwnerID (RO) = 45
+;   OwnerID32 (RO) = 45
+;   PlotStyleName = "ByLayer"
+;   Radius = 4.06445
+;   StartAngle = 1.45179
+;   StartPoint (RO) = (5.11743 16.1674 0.0)
+;   Thickness = 0.0
+;   TotalAngle (RO) = 1.93458
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e82c220>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadArc 000000002b8d58a8>
+; IAcadArc: AutoCAD Arc Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013ffe2308>
+;   ArcLength (RO) = 10.015
+;   Area (RO) = 14.8993
+;   Center = (-5.38459 9.91024 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002bf67248>
+;   EndAngle = 3.40062
+;   EndPoint (RO) = (-9.49174 8.82192 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e82c288>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 46
+;   ObjectID32 (RO) = 46
+;   ObjectName (RO) = "AcDbArc"
+;   OwnerID (RO) = 45
+;   OwnerID32 (RO) = 45
+;   PlotStyleName = "ByLayer"
+;   Radius = 4.24889
+;   StartAngle = 1.04353
+;   StartPoint (RO) = (-3.24668 13.5821 0.0)
+;   Thickness = 0.0
+;   TotalAngle (RO) = 2.35709
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e82c700>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadArc 000000002b8d5fa8>
+; IAcadArc: AutoCAD Arc Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013ffe2308>
+;   ArcLength (RO) = 48.096
+;   Area (RO) = 215.424
+;   Center = (-18.1933 6.68652 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002bf67248>
+;   EndAngle = 1.51876
+;   EndPoint (RO) = (-17.762 14.9684 0.0)
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e82c5e8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 47
+;   ObjectID32 (RO) = 47
+;   ObjectName (RO) = "AcDbArc"
+;   OwnerID (RO) = 45
+;   OwnerID32 (RO) = 45
+;   PlotStyleName = "ByLayer"
+;   Radius = 8.2931
+;   StartAngle = 2.00242
+;   StartPoint (RO) = (-21.6627 14.219 0.0)
+;   Thickness = 0.0
+;   TotalAngle (RO) = 5.79952
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e82c9a0>
+;   Visible = -1

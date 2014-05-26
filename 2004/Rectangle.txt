@@ -1,0 +1,171 @@
+[ AutoCAD - Mon May 26 16:41:47 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadLWPolyline 0000000035f3ede8>
+; IAcadLWPolyline: AutoCAD Lightweight Polyline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 30.5304
+;   Closed = -1
+;   ConstantWidth = 0.0
+;   Coordinate = ...Indexed contents not shown...
+;   Coordinates = (18.7197 2.73699 29.0342 2.73699 29.0342 -0.222969 ... )
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f18d6d8>
+;   Elevation = 0.0
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C1"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002f2544b8>
+;   Layer = "0"
+;   Length (RO) = 26.5489
+;   Linetype = "ByLayer"
+;   LinetypeGeneration = 0
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 77
+;   ObjectID32 (RO) = 77
+;   ObjectName (RO) = "AcDbPolyline"
+;   OwnerID (RO) = 78
+;   OwnerID32 (RO) = 78
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002f2548d0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLWPolyline 0000000035f3eea8>
+; IAcadLWPolyline: AutoCAD Lightweight Polyline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 25.9786
+;   Closed = -1
+;   ConstantWidth = 0.0
+;   Coordinate = ...Indexed contents not shown...
+;   Coordinates = (17.9696 17.4618 26.7463 17.4618 26.7463 14.5019 ... )
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f18d6d8>
+;   Elevation = 0.0
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C0"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002f254998>
+;   Layer = "0"
+;   Length (RO) = 23.4733
+;   Linetype = "ByLayer"
+;   LinetypeGeneration = 0
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 79
+;   ObjectID32 (RO) = 79
+;   ObjectName (RO) = "AcDbPolyline"
+;   OwnerID (RO) = 78
+;   OwnerID32 (RO) = 78
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002f254d50>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLWPolyline 0000000035f3f028>
+; IAcadLWPolyline: AutoCAD Lightweight Polyline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 39.634
+;   Closed = -1
+;   ConstantWidth = 0.0
+;   Coordinate = ...Indexed contents not shown...
+;   Coordinates = (18.9448 10.7551 27.834 10.7551 27.834 6.29643 ... )
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f18d6d8>
+;   Elevation = 0.0
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BF"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002f254b18>
+;   Layer = "0"
+;   Length (RO) = 26.6957
+;   Linetype = "ByLayer"
+;   LinetypeGeneration = 0
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 80
+;   ObjectID32 (RO) = 80
+;   ObjectName (RO) = "AcDbPolyline"
+;   OwnerID (RO) = 78
+;   OwnerID32 (RO) = 78
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002f254ff0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLWPolyline 0000000035f3f1a8>
+; IAcadLWPolyline: AutoCAD Lightweight Polyline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 44.2182
+;   Closed = -1
+;   ConstantWidth = 0.0
+;   Coordinate = ...Indexed contents not shown...
+;   Coordinates = (2.36657 13.1905 7.80512 13.1905 7.80512 5.05999 ... )
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f18d6d8>
+;   Elevation = 0.0
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002f254f38>
+;   Layer = "0"
+;   Length (RO) = 27.1381
+;   Linetype = "ByLayer"
+;   LinetypeGeneration = 0
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 81
+;   ObjectID32 (RO) = 81
+;   ObjectName (RO) = "AcDbPolyline"
+;   OwnerID (RO) = 78
+;   OwnerID32 (RO) = 78
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002f2552f0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadLWPolyline 0000000035f3f268>
+; IAcadLWPolyline: AutoCAD Lightweight Polyline Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Area (RO) = 299.943
+;   Closed = -1
+;   ConstantWidth = 0.0
+;   Coordinate = ...Indexed contents not shown...
+;   Coordinates = (10.5056 13.9399 39.1986 13.9399 39.1986 3.48634 ... )
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002f18d6d8>
+;   Elevation = 0.0
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002f255358>
+;   Layer = "0"
+;   Length (RO) = 78.293
+;   Linetype = "ByLayer"
+;   LinetypeGeneration = 0
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 82
+;   ObjectID32 (RO) = 82
+;   ObjectName (RO) = "AcDbPolyline"
+;   OwnerID (RO) = 78
+;   OwnerID32 (RO) = 78
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002f255650>
+;   Visible = -1

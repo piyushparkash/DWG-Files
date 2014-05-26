@@ -1,0 +1,406 @@
+[ AutoCAD - Mon May 26 16:41:20 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9d38>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (16.5251 10.5127 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1CB"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e893de8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 50
+;   ObjectID32 (RO) = 50
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e893fc0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9df8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (17.6111 9.23422 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1CA"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894148>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 52
+;   ObjectID32 (RO) = 52
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e894200>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9eb8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (15.8658 5.35995 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C9"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894388>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 53
+;   ObjectID32 (RO) = 53
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e8945c0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9f78>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (16.0985 6.05732 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C8"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894508>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 54
+;   ObjectID32 (RO) = 54
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e894440>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7ea038>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (19.2401 8.18816 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C7"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894988>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 55
+;   ObjectID32 (RO) = 55
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e8948c0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7ea0f8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (21.1018 10.9776 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C6"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894c88>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 56
+;   ObjectID32 (RO) = 56
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e893fc0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9d38>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (21.606 11.2488 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C5"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894148>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 57
+;   ObjectID32 (RO) = 57
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e894980>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9df8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (21.7999 9.81536 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C4"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e894e08>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 58
+;   ObjectID32 (RO) = 58
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e894c20>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9eb8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (21.7999 9.81536 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C3"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e8950a8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 59
+;   ObjectID32 (RO) = 59
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e895160>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9f78>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (19.3564 10.5515 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C2"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e895348>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 60
+;   ObjectID32 (RO) = 60
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e895280>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7ea038>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (18.891 11.7525 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C1"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e8954c8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 61
+;   ObjectID32 (RO) = 61
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e895580>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7ea1b8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (27.928 8.65308 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C0"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e895768>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 62
+;   ObjectID32 (RO) = 62
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e895820>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7ea278>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (19.6279 7.25834 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BF"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e895a08>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 63
+;   ObjectID32 (RO) = 63
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e895b20>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9d38>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (23.4289 11.9849 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e895168>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 64
+;   ObjectID32 (RO) = 64
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e894c20>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadPoint 000000002e7e9df8>
+; IAcadPoint: AutoCAD Point Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   Coordinates = (13.4999 11.4813 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002e649a78>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000002e8958e8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 65
+;   ObjectID32 (RO) = 65
+;   ObjectName (RO) = "AcDbPoint"
+;   OwnerID (RO) = 51
+;   OwnerID32 (RO) = 51
+;   PlotStyleName = "ByLayer"
+;   Thickness = 0.0
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000002e893d80>
+;   Visible = -1

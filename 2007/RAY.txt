@@ -1,0 +1,109 @@
+[ AutoCAD - Mon May 26 16:44:42 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadRay 000000002b67bf58>
+; IAcadRay: AutoCAD Ray Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BasePoint = (10.0931 10.1931 0.0)
+;   DirectionVector = (0.0 -1.0 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d1c48>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C0"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 0000000039eb4da8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 106
+;   ObjectID32 (RO) = 106
+;   ObjectName (RO) = "AcDbRay"
+;   OwnerID (RO) = 107
+;   OwnerID32 (RO) = 107
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (10.0931 9.19308 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 0000000039eb51c0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadRay 000000002b680788>
+; IAcadRay: AutoCAD Ray Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BasePoint = (10.0931 10.1931 0.0)
+;   DirectionVector = (0.0 1.0 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d1c48>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BF"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 0000000039eb5348>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 108
+;   ObjectID32 (RO) = 108
+;   ObjectName (RO) = "AcDbRay"
+;   OwnerID (RO) = 107
+;   OwnerID32 (RO) = 107
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (10.0931 11.1931 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 0000000039eb53a0>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadRay 000000002b680a48>
+; IAcadRay: AutoCAD Ray Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BasePoint = (10.0931 10.1931 0.0)
+;   DirectionVector = (0.983378 -0.181571 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d1c48>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BE"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 0000000039eb55e8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 109
+;   ObjectID32 (RO) = 109
+;   ObjectName (RO) = "AcDbRay"
+;   OwnerID (RO) = 107
+;   OwnerID32 (RO) = 107
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (11.0764 10.0115 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 0000000039eb5580>
+;   Visible = -1
+ />
+<DwgEntity
+#<VLA-OBJECT IAcadRay 000000002b680d08>
+; IAcadRay: AutoCAD Ray Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   BasePoint = (10.0931 10.1931 0.0)
+;   DirectionVector = (0.98609 0.166213 0.0)
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 00000000364d1c48>
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1BD"
+;   HasExtensionDictionary (RO) = 0
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 0000000039eb58e8>
+;   Layer = "0"
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   ObjectID (RO) = 110
+;   ObjectID32 (RO) = 110
+;   ObjectName (RO) = "AcDbRay"
+;   OwnerID (RO) = 107
+;   OwnerID32 (RO) = 107
+;   PlotStyleName = "ByLayer"
+;   SecondPoint = (11.0791 10.3593 0.0)
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 0000000039eb5a00>
+;   Visible = -1

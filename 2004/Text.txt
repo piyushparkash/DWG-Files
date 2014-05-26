@@ -1,0 +1,38 @@
+[ AutoCAD - Mon May 26 16:42:06 2014  ]----------------------------------------
+
+<DwgEntity
+#<VLA-OBJECT IAcadMText 00000000366b7ef8>
+; IAcadMText: AutoCAD MText Interface
+; Property values:
+;   Application (RO) = #<VLA-OBJECT IAcadApplication 000000013fa12308>
+;   AttachmentPoint = 1
+;   BackgroundFill = 0
+;   Document (RO) = #<VLA-OBJECT IAcadDocument 000000002bc2e1d8>
+;   DrawingDirection = 5
+;   EntityTransparency = "ByLayer"
+;   Handle (RO) = "1C0"
+;   HasExtensionDictionary (RO) = 0
+;   Height = 0.2
+;   Hyperlinks (RO) = #<VLA-OBJECT IAcadHyperlinks 000000003661eac8>
+;   InsertionPoint = (7.33298 14.1158 0.0)
+;   Layer = "0"
+;   LineSpacingDistance = 0.333333
+;   LineSpacingFactor = 1.0
+;   LineSpacingStyle = 1
+;   Linetype = "ByLayer"
+;   LinetypeScale = 1.0
+;   Lineweight = -1
+;   Material = "ByLayer"
+;   Normal = (0.0 0.0 1.0)
+;   ObjectID (RO) = 89
+;   ObjectID32 (RO) = 89
+;   ObjectName (RO) = "AcDbMText"
+;   OwnerID (RO) = 90
+;   OwnerID32 (RO) = 90
+;   PlotStyleName = "ByLayer"
+;   Rotation = 0.0
+;   StyleName = "Standard"
+;   TextString = "This a multiline text to check if libredwg is able to read this in the current file format version"
+;   TrueColor = #<VLA-OBJECT IAcadAcCmColor 000000003661ed00>
+;   Visible = -1
+;   Width = 13.0319
