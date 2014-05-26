@@ -1,0 +1,4 @@
+<!-- Mon May 26 16:37:51 2014  --><?xml version="1.0" encoding="UTF-8"?>
+<DwgData>
+<DwgEntity type="IAcadLWPolyline" id="0000000036dd87c8" desc="IAcadLWPolyline: AutoCAD Lightweight Polyline Interface" Application="IAcadApplication 000000013f752308" Area="54.3027" Closed="0" ConstantWidth="0.0" Coordinate="...Indexed contents not shown..." Coordinates="(9.00535 12.2913 17.1819 14.7267 20.7826 8.24476 ... )" Document="IAcadDocument 00000000367b2168" Elevation="0.0" EntityTransparency="ByLayer" Handle="1BD" HasExtensionDictionary="0" Hyperlinks="IAcadHyperlinks 0000000036d71218" Layer="0" Length="32.2673" Linetype="ByLayer" LinetypeGeneration="0" LinetypeScale="1.0" Lineweight="-1" Material="ByLayer" Normal="(0.0 0.0 1.0)" ObjectID="98" ObjectID32="98" ObjectName="AcDbPolyline" OwnerID="99" OwnerID32="99" PlotStyleName="ByLayer" Thickness="0.0" TrueColor="IAcadAcCmColor 0000000036d71510" Visible="-1" />
+</DwgData>

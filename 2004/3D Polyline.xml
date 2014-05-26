@@ -1,0 +1,4 @@
+<!-- Mon May 26 16:39:47 2014  --><?xml version="1.0" encoding="UTF-8"?>
+<DwgData>
+<DwgEntity type="IAcad3DPolyline" id="000000002bd5c998" desc="IAcad3DPolyline: AutoCAD 3dPolyline Interface" Application="IAcadApplication 000000013fa12308" Closed="0" Coordinate="...Indexed contents not shown..." Coordinates="(21.4409 14.6498 0.0 20.8962 5.65378 0.0 ... )" Document="IAcadDocument 000000002bd843f8" EntityTransparency="ByLayer" Handle="1C1" HasExtensionDictionary="0" Hyperlinks="IAcadHyperlinks 000000002e5d3b88" Layer="0" Length="38.6446" Linetype="ByLayer" LinetypeScale="1.0" Lineweight="-1" Material="ByLayer" ObjectID="42" ObjectID32="42" ObjectName="AcDb3dPolyline" OwnerID="43" OwnerID32="43" PlotStyleName="ByLayer" TrueColor="IAcadAcCmColor 000000002e5d3e80" Type="0" Visible="-1" />
+</DwgData>
